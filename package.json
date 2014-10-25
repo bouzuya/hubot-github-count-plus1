@@ -1,6 +1,6 @@
 {
   "name": "hubot-github-count-plus1",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that counts :+1: on the issue",
   "main": "index.js",
   "scripts": {
